@@ -1,0 +1,4 @@
+https://github.com/pardeike/Harmony/releases
+
+Harmony v1.1.0
+https://github.com/pardeike/Harmony/releases/download/v1.1.0/Release.zip
